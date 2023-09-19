@@ -1,6 +1,7 @@
 # MATEMÁTICA COMPUTACIONAL COM PYTHON 
 ### © 2023, Tiago M. Buriol
-![image](https://github.com/tiagoburiol/matematica_computacional_com_python/assets/5231541/dba119ab-c9ea-48cc-9504-803dcd2245cd)
+![image](https://github.com/tiagoburiol/matematica_computacional_com_python/assets/5231541/773c1fb2-7ebd-467b-944f-e4cafb2ae675)
+
 
 Direitos reservados à:
 Editora da Universidade Federal de Santa Maria
