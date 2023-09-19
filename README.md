@@ -31,6 +31,4 @@ noções básicas de programação, passamos pela construção de
 gráficos e chegamos até as rotinas iterativas. Para executar os
 códigos apresentados ao longo deste livro, indicamos o uso
 do ambiente Google Colaboratory (https://colab.research.
-google.com), que permite escrever e executar códigos facil-
-mente, via navegador da internet, dispensando qualquer insta-
-lação ou configuração.
+google.com), que permite escrever e executar códigos facilmente, via navegador da internet, dispensando qualquer instalação ou configuração.
