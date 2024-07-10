@@ -36,4 +36,4 @@ google.com), que permite escrever e executar códigos facilmente, via navegador 
 
 Se gostou do conteúdo e é útil para você, você pode contribuir com o projeto me pagando um expresso ;)
 
-<img title="p i x" src="imagens/da28a188-c7e9-4900-9312-0a7cf54d5d8c.jpeg" width="180">
+<img title="p i x" src="da28a188-c7e9-4900-9312-0a7cf54d5d8c.jpeg" width="180">
