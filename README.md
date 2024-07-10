@@ -32,3 +32,8 @@ gráficos e chegamos até as rotinas iterativas. Para executar os
 códigos apresentados ao longo deste livro, indicamos o uso
 do ambiente Google Colaboratory (https://colab.research.
 google.com), que permite escrever e executar códigos facilmente, via navegador da internet, dispensando qualquer instalação ou configuração.
+
+
+Se gostou do conteúdo e é útil para você, você pode contribuir com o projeto me pagando um expresso ;)
+
+<img title="p i x" src="imagens/da28a188-c7e9-4900-9312-0a7cf54d5d8c.jpeg" width="180">
