@@ -33,7 +33,9 @@ códigos apresentados ao longo deste livro, indicamos o uso
 do ambiente Google Colaboratory (https://colab.research.
 google.com), que permite escrever e executar códigos facilmente, via navegador da internet, dispensando qualquer instalação ou configuração.
 
+**Veja a errata com algumas correções [aqui](https://github.com/tiagoburiol/matematica_computacional_com_python/blob/main/ERRATA.ipynb)**.
 
-Se gostou do conteúdo e é útil para você, você pode contribuir com o projeto me pagando um expresso ;)
+
+Se gostou do conteúdo e tem sido útil para você, você pode contribuir com o projeto me pagando um café expresso fazendo um pix usando o QR code abaixo ;) 
 
 <img title="p i x" src="da28a188-c7e9-4900-9312-0a7cf54d5d8c.jpeg" width="180">
